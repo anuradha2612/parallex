@@ -37,6 +37,15 @@ h1{     color:crimson;
 	    display: table-cell;
 }
 
+h3{     color:crimson;
+		font-family:fantasy;
+		text-align: center;
+		
+	    vertical-align: middle;
+	    margin: 0px;
+	    display: table-cell;
+}
+
 #d1{
 	background-color: black;
 /*
