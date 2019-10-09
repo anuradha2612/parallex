@@ -1,0 +1,45 @@
+.p1{
+	background: url(images/64.png) no-repeat center;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+	display: table;
+
+}
+
+.p2{
+	background: url(images/67.jpg) no-repeat center;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+	display: table;
+}
+
+
+.p3{
+	background: url(images/68.jpg) no-repeat center;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+	display: table;
+
+}
+
+h1{     color:crimson;
+		font-family:fantasy;
+		text-align: center;
+		font-size: 50px;
+	    vertical-align: middle;
+	    margin: 0px;
+	    display: table-cell;
+}
+
+#d1{
+	background-color: black;
+/*
+	margin: 10px 10px 10px 10px;
+*/
+}
