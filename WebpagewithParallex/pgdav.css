@@ -1,0 +1,66 @@
+   #par1{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("images/44.png");
+    height:100vh;
+    background-attachment:fixed;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+     padding-top:20%;
+    color:white;
+    font-weight:bold;
+
+}
+#par1 h1{font-size:60px;}
+@media screen and (max-width:800px)
+    {.nav{
+        text-align:center;
+      }
+       #par1{padding-top:30%;} 
+        #smal{margin-left:30%;}
+    }
+@media screen and (max-width:500px)
+  { .nav{
+        text-align:center;
+      }
+      #par1{padding-top:60%;} 
+      #smal{margin-left:20%;}
+}
+ #about{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("images/76.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color:white;
+    font-weight:bold;
+    padding:40px;
+
+}
+#tr{ transition: transform 1s;}
+#tr:hover {
+  transform: rotate(360deg);
+}
+ #par2{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("images/54.jpg");
+    height:100vh;
+    background-attachment:fixed;
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size:cover;
+   
+
+}
+#characters{padding:20px;
+           }
+#characters h1{ font-weight:bold;}
+#books{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url("images/9.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color:white;
+    font-weight:bold;
+   
+
+}
+#cont{background-color:black;
+      padding:20px;
+     border-radius:6px;
+     }
